@@ -1,0 +1,367 @@
+.thirdframe {
+  width: 1440px;
+  height: 1024px;
+  position: absolute;
+  top: 21px;
+  background-color: #f8f9fd;
+}
+.thirdFrame-nav {
+  width: 1345.11px;
+  height: 122px;
+  left: 35px;
+  padding: 37px 0px 37px 0px;
+  gap: 941px;
+  display: flex;
+
+}
+.thirdFrame-nav h1 {
+  font-size: 42px;
+  font-weight: 700;
+  line-height: 39px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin: 0px;
+}
+.thirdFrame-nav h1 span {
+  font-family: PP Cirka;
+  font-size: 42px;
+  font-weight: 600;
+  line-height: 39px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #6f57e9;
+}
+.thirdFrame-nav-div {
+  width: 234.11px;
+  height: 48px;
+  gap: 28px;
+  display: flex;
+}
+.thirdFrame-nav-div div {
+  width: 40px;
+  height: 40px;
+  position: relative;
+  top: 4px;
+  left: 4px;
+  border: 3px solid #6f57e9;
+}
+.thirdFrame-nav-div div img {
+  width: 13.34px;
+  height: 24px;
+  position: relative;
+  top: 7px;
+  left: 14px;
+  border: 3px;
+  color: #6f57e9;
+  margin: 0px;
+}
+.thirdFrame-nav-div button {
+  width: 158.11px;
+  height: 48px;
+  padding: 12px 20px 12px 20px;
+  border-radius: 13px;
+  gap: 8.89px;
+  font-family: "Figtree", sans-serif;
+  font-size: 19px;
+  font-weight: 600;
+  line-height: 23px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #ffffff;
+  background-color: #6f57e9;
+  padding: 0px;
+  border: none;
+}
+.load-div {
+  width: 211px;
+  height: 52px;
+  position: absolute;
+  top: 173px;
+  left: 179px;
+  padding: 14px 129px 14px 13px;
+  border-radius: 14px;
+  display: flex;
+}
+.load-div img {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  top: 14px;
+  left: 13px;
+}
+.load-div p {
+  width: 36px;
+  height: 19px;
+  position: relative;
+  top: 16.5px;
+  left: 46px;
+  font-family: "Figtree", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin: 0px;
+}
+.round-div {
+  width: 573px;
+  height: 63px;
+  top: 182px;
+  left: 77px;
+  height: 63px;
+  position: relative;
+  top: -6px;
+  text-align: center;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+.round-div-div {
+  text-align: center;
+  z-index: 1;
+}
+
+.round-div-div:nth-child(2),
+.sideline:nth-child(3) {
+  margin-left: -72px;
+}
+
+.round-div-div:nth-child(3),
+.round-div-div:nth-child(4) {
+  margin-left: -20px;
+}
+
+.round-div-div div {
+  border-radius: 50%;
+  padding: 10px;
+  background-color: #d3b0ff;
+  font-family: "Figtree", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 19px;
+  text-align: center;
+  color: white;
+  width: 20px;
+  margin-left: 40%;
+}
+
+.round-div-div p {
+  text-align: center;
+}
+
+.sidebar {
+  width: 10%;
+  height: -2px;
+  margin-bottom: 45px;
+  border: 1px solid #d3b0ff;
+  z-index: 2;
+}
+.booking div {
+  background-color: #868686;
+  width: 20px;
+  height: 23px;
+  top: 182px;
+  left: 958px;
+  gap: 8px;
+}
+.middle-content {
+  width: 1286px;
+  height: 72px;
+  position: absolute;
+  top: 295px;
+  left: 76px;
+  padding: 10px 18px 10px 6px;
+  border-radius: 16px;
+  gap: 20px;
+  background-color: white;
+  box-shadow: 0px 0px 0px 0px #151f481a, 0px 35px 77px 0px #151f481a,
+    0px 140px 140px 0px #151f4817, 0px 315px 189px 0px #151f480d,
+    0px 559px 224px 0px #151f4803, 0px 874px 245px 0px #151f4800;
+  display: flex;
+}
+.middle-inner-div {
+  width: 1198px;
+  height: 52px;
+  gap: 5px;
+  display: flex;
+  padding-top: 20px;
+}
+.big-div {
+  width: 327px;
+  height: 52px;
+  padding: 14px 13px 14px 13px;
+  border-radius: 11px;
+  gap: 9px;
+  display: flex;
+}
+.big-div p {
+  font-family: "Figtree", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 19px;
+  margin: 0px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.small-div {
+  width: 211px;
+  height: 52px;
+  padding: 14px 13px 14px 13px;
+  border-radius: 11px;
+  gap: 9px;
+  display: flex;
+}
+.small-div p {
+  font-family: "Figtree", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin: 0px;
+}
+.small-div img {
+  width: 24px;
+  height: 24px;
+}
+.sideline {
+  width: 27;
+  border: 1px solid #b9b9b9;
+  transform: rotate(-1deg);
+  height: 27;
+}
+.edit {
+  width: 18px;
+  height: 16.95px;
+  position: relative;
+  top: 22.05px;
+  left: 3px;
+  border: 1.5px;
+  color: #9747ff;
+}
+.linebar {
+  width: 1440px;
+  position: absolute;
+  top: 420px;
+  border: 1px;
+  border: 1px solid #b4b4b499;
+}
+.best-value-div {
+  width: 688px;
+  height: 42px;
+  position: absolute;
+  top: 438px;
+  left: 381px;
+  border-radius: 14px;
+  gap: 43px;
+  background-color: #ebe8ff;
+  box-shadow: 0px 0px 0px 0px #151f481a, 1px 13px 30px 0px #151f481a,
+    3px 54px 54px 0px #151f4817, 8px 121px 73px 0px #151f480d,
+    14px 216px 86px 0px #151f4803, 21px 337px 95px 0px #151f4800;
+  display: flex;
+}
+.best-value-div-div {
+  width: 256px;
+  height: 48px;
+  top: -3px;
+  border-radius: 14px;
+  box-shadow: 4px 3px 10px 0px #0000001a;
+  background-color: #ffffff;
+}
+.best-value-div p {
+  font-family: "Figtree", sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 16px;
+  text-align: center;
+  letter-spacing: 0em;
+  text-align: left;
+  margin: 0px;
+  color: #868686;
+  margin-top: 12px;
+}
+.best-value-div-div p {
+  color: #9747ff;
+  font-weight: 600;
+  text-align: center;
+  margin-top: 15px;
+}
+.best {
+  font-family: "Figtree", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+  width: 171px;
+  height: 19px;
+  position: absolute;
+  top: 470px;
+  left: 75px;
+  margin: 0px;
+}
+.best span {
+  font-family: "Figtree", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.list {
+  width: 256px;
+  height: 166px;
+  position: absolute;
+  top: 528px;
+  left: 75px;
+  gap: 30px;
+  display: grid;
+}
+.filters {
+  width: 256px;
+  height: 19px;
+  gap: 194px;
+  display: flex;
+}
+.price {
+  width: 255px;
+  height: 19px;
+  gap: 201px;
+  display: flex;
+}
+.modes {
+  width: 256px;
+  height: 19px;
+  gap: 190px;
+  display: flex;
+}
+.seller {
+  width: 255px;
+  height: 19px;
+  gap: 197px;
+  display: flex;
+}
+.filters p,
+.price p,
+.modes p,
+.seller p {
+  font-family: "Figtree", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.list p{
+    margin: 0px;
+}
+.list img {
+  width: 17px;
+  height: 17px;
+  position: relative;
+  top: 3.34px;
+  left: 2.89px;
+  border: 1px;
+  color: black;
+}
